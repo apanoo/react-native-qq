@@ -1,0 +1,52 @@
+{
+  "_from": "react-native-qq",
+  "_id": "react-native-qq@2.0.5",
+  "_inBundle": false,
+  "_integrity": "sha1-kciTvZ3Uvnt5UyJ+Uiydi7OYJiQ=",
+  "_location": "/react-native-qq",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-qq",
+    "name": "react-native-qq",
+    "escapedName": "react-native-qq",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-qq/download/react-native-qq-2.0.5.tgz",
+  "_shasum": "91c893bd9dd4be7b7953227e522c9d8bb3982624",
+  "_spec": "react-native-qq",
+  "_where": "/home/apanoo/gopath/src/mie",
+  "author": {
+    "name": "tdzl2003"
+  },
+  "bugs": {
+    "url": "https://github.com/reactnativecn/react-native-qq/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "QQ Login&Share support in React Native.",
+  "homepage": "https://github.com/reactnativecn/react-native-qq#readme",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-qq",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactnativecn/react-native-qq.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.5"
+}

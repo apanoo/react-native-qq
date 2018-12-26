@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:2:5-40
+		INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+		INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:7:5-26:19
+	android:allowBackup
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:8:9-35
+meta-data#QQ_APPID
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:10:9-73
+	android:value
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:10:44-71
+	android:name
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:10:20-43
+activity#com.tencent.tauth.AuthActivity
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:11:9-21:20
+	android:launchMode
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:14:13-44
+	android:noHistory
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:12:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tencent${QQ_APPID}
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:15:13-20:29
+action#android.intent.action.VIEW
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:17:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:18:17-78
+	android:name
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:18:27-75
+data
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:19:17-61
+	android:scheme
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:19:23-58
+activity#com.tencent.connect.common.AssistActivity
+ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:22:9-25:15
+	android:configChanges
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:24:13-74
+	android:theme
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:23:13-72
+	android:name
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml:22:19-75
+uses-sdk
+INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+		INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+		ADDED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml
+		INJECTED from /home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/src/main/AndroidManifest.xml

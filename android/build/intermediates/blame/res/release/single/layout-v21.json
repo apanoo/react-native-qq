@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/apanoo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bfb750f2b0804338e34eeae4ddaa3e64/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/apanoo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bfb750f2b0804338e34eeae4ddaa3e64/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/apanoo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bfb750f2b0804338e34eeae4ddaa3e64/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/apanoo/gopath/src/mie/node_modules/react-native-qq/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/apanoo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bfb750f2b0804338e34eeae4ddaa3e64/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
